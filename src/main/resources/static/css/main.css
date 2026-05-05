@@ -338,3 +338,7 @@ button.accent {
     flex-direction: column;
     overflow: hidden;
 }
+
+#users-list li span {
+    color: #1b8a1b;
+}
